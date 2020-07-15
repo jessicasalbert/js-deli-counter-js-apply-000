@@ -27,3 +27,24 @@ function currentLine(line) {
   }
   return resultString;
 }
+
+
+
+
+
+
+
+
+//take a number - issue a number
+var number = 0;
+function takeANumber() {
+  return number++
+}
+
+
+
+
+
+
+
+
